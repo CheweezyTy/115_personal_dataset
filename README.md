@@ -1,10 +1,10 @@
 # 115_personal_dataset
 DATA 115 Personal Dataset Project
 
-##Motivation
+## Motivation
 I originally obtained my motivation for 
 
-##Visualizations
+## Visualizations
 <img src= "https://github.com/CheweezyTy/115_personal_dataset/blob/main/NAvsEUScatterPlot.png">
 This scatterplot displays the sales total for various video games between North America versus Europe. The best fit line expresses the relationship between these points based on what the sales total is in North America and Europe. The best fit line on this plot is the second steepest slope which shows more of a correlation between the points.
 
