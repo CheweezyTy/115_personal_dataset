@@ -26,3 +26,7 @@ In order to analyze the distribution of data for both video game platforms and v
 
 <table>
   <tr><td><img src="https://raw.githubusercontent.com/CheweezyTy/115_personal_dataset/main/VGPlatformBoxPlot.png"></td><td><img src="https://raw.githubusercontent.com/CheweezyTy/115_personal_dataset/main/VGGenreBoxPlot.png">
+
+When looking at the boxplot distribution for video game platforms in terms of global sales, you can see six outliers above the maximum. Despite the outliers, when observing for symmetry we can see that the boxplot is negatively skewed only by a little, since the median is closer towards Q3 than it is to Q1. When observing the IQR for platforms we can see a more condensed distribution, with the exception of the outliers, compared to the genres distribution.
+
+When looking at the boxplot distribution for video game genres in terms of global sales, you can see no outliers. When observing for symmetry we can see that boxplot is negatively skewed slightly since the median is closer towards Q3 than it is to Q1. When observing the IQR for genres we can see a more broad distribution than the platforms distribution.
