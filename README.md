@@ -14,7 +14,9 @@ After completing my cleaning processes I transformed my data to specifically dis
 
 ## Visualizations
 The first visualization displays the top 10 ranking games according to global sales. The second visualization displays the global sales for video games according to each video game platform. The third visualization displays the global sales for video games according to their genre.
+
 <img src= "https://raw.githubusercontent.com/CheweezyTy/115_personal_dataset/main/Top10VGPlot.png">
 <img src="https://raw.githubusercontent.com/CheweezyTy/115_personal_dataset/main/VGPlatformPlot.png">
 <img src="https://raw.githubusercontent.com/CheweezyTy/115_personal_dataset/main/VGGenrePlot.png">
 
+The visuals help to provide physical representation of what games, platforms, and genres are most popular according to global sales.
