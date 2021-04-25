@@ -5,11 +5,7 @@ DATA 115 Personal Dataset Project
 I originally obtained my motivation for 
 
 ## Visualizations
-<img src= "https://raw.githubusercontent.com/CheweezyTy/115_personal_dataset/main/Top10VGPlot.png">This first visualization diplays the top 10 ranking games according to global sales.
-
-<table>
-  <tr><td><img src="https://raw.githubusercontent.com/CheweezyTy/115_personal_dataset/main/VGGenrePlot.png"></td></tr><tr><td>This second visualization displays the global sales for video games according to their genre.
-</table>
-<table>
-  <tr><td><img src="https://raw.githubusercontent.com/CheweezyTy/115_personal_dataset/main/VGPlatformPlot.png"></td></tr><tr><td>This third visualization displays the global sales for video games according to each video game platform.
-</table>
+The first visualization diplays the top 10 ranking games according to global sales. The second visualization displays the global sales for video games according to their genre. The third visualization displays the global sales for video games according to each video game platform.
+<img src= "https://raw.githubusercontent.com/CheweezyTy/115_personal_dataset/main/Top10VGPlot.png">
+<img src="https://raw.githubusercontent.com/CheweezyTy/115_personal_dataset/main/VGGenrePlot.png">
+<img src="https://raw.githubusercontent.com/CheweezyTy/115_personal_dataset/main/VGPlatformPlot.png">
