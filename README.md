@@ -24,4 +24,5 @@ The visuals help to provide physical representation to what games, platforms, an
 ## Analysis
 In order to analyze the distribution of data for both video game platforms and video game genres I created boxplots for each field to help determine if there happened to be any outliers. Along with determining any outliers in the distribution of the data I also wanted to observe skewness of these boxplots and to see if there happens to be any symmetry among them. Below are the boxplots created for both video game platforms and video game genres:
 
-<img src="https://raw.githubusercontent.com/CheweezyTy/115_personal_dataset/main/VGPlatformBoxPlot.png"><img src="https://raw.githubusercontent.com/CheweezyTy/115_personal_dataset/main/VGGenreBoxPlot.png">
+<table>
+  <tr><td><img src="https://raw.githubusercontent.com/CheweezyTy/115_personal_dataset/main/VGPlatformBoxPlot.png"></td><td><img src="https://raw.githubusercontent.com/CheweezyTy/115_personal_dataset/main/VGGenreBoxPlot.png">
