@@ -19,4 +19,6 @@ The first visualization displays the top 10 ranking games according to global sa
 <img src="https://raw.githubusercontent.com/CheweezyTy/115_personal_dataset/main/VGPlatformPlot.png">
 <img src="https://raw.githubusercontent.com/CheweezyTy/115_personal_dataset/main/VGGenrePlot.png">
 
-The visuals help to provide physical representation of what games, platforms, and genres are most popular according to global sales.
+The visuals help to provide physical representation to what games, platforms, and genres are most popular according to global sales.
+
+## Analysis
