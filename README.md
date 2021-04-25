@@ -8,6 +8,7 @@ I originally obtained my motivation for
 <table>
   <tr><td><img src= "https://raw.githubusercontent.com/CheweezyTy/115_personal_dataset/main/Top10VGPlot.png"></td></tr>
 
+</table>
 <img src="https://raw.githubusercontent.com/CheweezyTy/115_personal_dataset/main/VGGenrePlot.png">
 
 <img src="https://raw.githubusercontent.com/CheweezyTy/115_personal_dataset/main/VGPlatformPlot.png">
